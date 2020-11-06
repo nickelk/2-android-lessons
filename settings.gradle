@@ -1,3 +1,4 @@
+include ':p0821handleradvmessage'
 include ':p0811handlersimplemessage'
 include ':p0801_handler'
 include ':p0481simpleadapter'
