@@ -1,3 +1,4 @@
+include ':p0491simpleadaptercustom1'
 include ':p0852weakreferencehandler'
 include ':p0851runnableuithread'
 include ':p0841handlerrunnable'
