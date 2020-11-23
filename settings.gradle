@@ -1,3 +1,4 @@
+include ':p0541customadapter'
 include ':p0511simpleadapterdata'
 include ':p0501simpleadaptercustom2'
 include ':p0491simpleadaptercustom1'
