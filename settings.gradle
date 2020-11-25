@@ -1,3 +1,4 @@
+include ':p0551headerfooter'
 include ':p0541customadapter'
 include ':p0511simpleadapterdata'
 include ':p0501simpleadaptercustom2'
