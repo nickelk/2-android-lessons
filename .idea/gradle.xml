@@ -33,6 +33,7 @@
             <option value="$PROJECT_DIR$/p0851runnableuithread" />
             <option value="$PROJECT_DIR$/p0852weakreferencehandler" />
             <option value="$PROJECT_DIR$/p0921servicesimple" />
+            <option value="$PROJECT_DIR$/p0931servicestop" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
