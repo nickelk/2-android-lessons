@@ -35,6 +35,7 @@
             <option value="$PROJECT_DIR$/p0921servicesimple" />
             <option value="$PROJECT_DIR$/p0931servicestop" />
             <option value="$PROJECT_DIR$/p0941servicekillclient" />
+            <option value="$PROJECT_DIR$/p0951servicebackpendingintent" />
             <option value="$PROJECT_DIR$/servicekillserver" />
           </set>
         </option>
