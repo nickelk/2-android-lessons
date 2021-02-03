@@ -37,6 +37,8 @@ public class MyService extends Service {
             Log.d(LOG_TAG, "START_FLAG_REDELIVERY");
         if ((flags&START_FLAG_RETRY) == START_FLAG_RETRY)
             Log.d(LOG_TAG, "START_FLAG_RETRY");
+        if (flags == 0)
+            Log.d(LOG_TAG, "flags = 0");
     }
 
     class MyRun implements Runnable {
@@ -51,7 +53,7 @@ public class MyService extends Service {
         public void run() {
             Log.d(LOG_TAG, "MyRun#" + startId + " start");
             try {
-                TimeUnit.SECONDS.sleep(15);
+                TimeUnit.SECONDS.sleep(30);
             } catch (InterruptedException e) {
                 e.printStackTrace();
             }
