@@ -1,3 +1,5 @@
+include ':p0972servicebindserver'
+include ':p0971servicebindclient'
 include ':p0961servicebackbroadcast'
 include ':p0951servicebackpendingintent'
 include ':servicekillserver'
