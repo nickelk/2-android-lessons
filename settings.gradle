@@ -1,3 +1,4 @@
+include ':p0981servicebindinglocal'
 include ':p0972servicebindserver'
 include ':p0971servicebindclient'
 include ':p0961servicebackbroadcast'
